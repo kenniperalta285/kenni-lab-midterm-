@@ -1,0 +1,95 @@
+body {
+font-family: Verdana;
+background-color: #fce4ec;
+margin: 25px;
+}
+
+.wrapper {
+width: 400px;
+margin: 0 auto;
+}
+
+h1 {
+color: #ad1457;
+text-align: center;
+}
+
+form {
+background-color: white;
+padding: 15px;
+border: 2px solid #ad1457;
+}
+
+legend {
+color: #ad1457;
+font-weight: bold;
+}
+
+label {
+display: block;
+margin-top: 12px;
+color: #880e4f;
+font-weight: bold;
+}
+
+label.check {
+font-weight: normal;
+}
+
+input {
+width: 210px;
+padding: 5px;
+margin-top: 4px;
+border: 1px solid #ad1457;
+}
+
+#terms {
+width: auto;
+}
+
+select {
+width: 222px;
+padding: 5px;
+margin-top: 4px;
+border: 1px solid #ad1457;
+}
+
+button {
+margin-top: 15px;
+margin-right: 6px;
+padding: 7px 14px;
+background-color: #ad1457;
+color: white;
+border: none;
+}
+
+.err {
+display: block;
+margin-top: 4px;
+color: red;
+font-size: 13px;
+}
+
+.note {
+display: block;
+margin-top: 4px;
+color: #555;
+font-size: 13px;
+}
+
+#successMessage {
+color: green;
+text-align: center;
+}
+
+#registrationSummary {
+background-color: #f8bbd0;
+margin-top: 15px;
+padding: 12px;
+border: 1px solid #ad1457;
+}
+
+#registrationSummary h2 {
+color: #ad1457;
+margin-top: 0;
+}
